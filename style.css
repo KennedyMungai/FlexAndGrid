@@ -37,3 +37,8 @@ a:active {
     justify-content: space-around;
     flex-wrap: wrap;
 }
+
+.icon-wrap {
+    display: flex;
+    align-items: center;
+}
