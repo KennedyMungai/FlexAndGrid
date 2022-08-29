@@ -1,3 +1,7 @@
+html {
+    background-color: darkcyan ;
+}
+
 .wrapper {
     background-color: bisque;
     padding: 1.5rem;
