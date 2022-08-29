@@ -1,5 +1,6 @@
 html {
-    background-color: darkcyan ;
+    background-color: darkorange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .wrapper {
@@ -29,4 +30,10 @@ a:hover {
 
 a:active {
     scale: 1.1;
+}
+
+.logos {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
 }
