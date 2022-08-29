@@ -1,23 +1,28 @@
-.FlexWrapper {
-    background-color: indigo;
+html, 
+body {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    font-family: sans-serif;
+    color: #ebebeb;
     display: flex;
-    justify-content: space-evenly;
-    height: 200px;
-    width: 100%;
+    flex-direction: column;
+    min-height: 100%;
 }
 
-.FlexItem {
-    border: 1px solid #ebebeb;
-    background-color: #34005b;
-    display: flex;
-    height: 100px;
-}
-
-.FlexOne {
-    flex: 1.5 0 auto;
-}
-
-.FlexTwo,
-.FlexThree {
+.MainContent {
     flex: 1 0 auto;
+    color: #333;
+    padding: 0.5rem;
+}
+
+.Footer {
+    background-color: violet;
+    padding: 0.5rem;
 }
