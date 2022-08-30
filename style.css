@@ -3,6 +3,7 @@
     background-color: gray;
     margin: 0;
     padding: 1rem;
+    border-radius: 0.5rem;
 }
 
 .nav-link:last-child {
