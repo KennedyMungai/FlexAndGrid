@@ -5,3 +5,13 @@
 .nav-link:last-child {
     margin-left: auto;
 }
+
+a {
+    font-family: sans-serif;
+    text-decoration: none;
+    margin: 0 1rem;
+    color: white;
+    padding: 0.5rem;
+    background-color: black;
+    border-radius: 0.5rem;
+}
