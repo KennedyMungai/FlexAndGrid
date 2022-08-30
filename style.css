@@ -3,9 +3,9 @@
     grid-gap: 10px;
     grid-template-rows: 200px 200px;
     grid-template-columns: 200px 200px;
+    grid-auto-rows: 200px;
+    grid-auto-rows: 200px;
     background-color: #e4e4e4;
-    /* align-items: center; */
-    /* justify-content: center; */
 }
 
 .grid-item-1 {
