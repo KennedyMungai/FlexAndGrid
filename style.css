@@ -1,5 +1,8 @@
 .nav-Wrapper {
     display: flex;
+    background-color: gray;
+    margin: 0;
+    padding: 1rem;
 }
 
 .nav-link:last-child {
