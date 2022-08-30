@@ -29,6 +29,9 @@
 }
 
 [class^="grid-item"] {
+    display: grid;
+    align-items: center;
+    justify-content: center;
     outline: 3px dashed #f90;
     font-size: 30px;
     color: #333;
