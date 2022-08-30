@@ -1,3 +1,6 @@
 img[alt] {
     border: 3px dashed #e15f5f;
+    border-radius: 50%;
+    height: 50rem;
+    width: 50rem;
 }
